@@ -1,0 +1,54 @@
+@media(max-width: 375px) {
+    header {
+        background-image: url(../IMG/Vector\ \(1\).png);
+        background-repeat: no-repeat;
+        background-position: 13px 19px;
+        width: 100%;
+    }
+    .navigation{
+        display: none;
+    }
+    .logo{
+        margin-inline: auto;
+    }
+   .info{
+    align-items: center;
+    justify-content: center;
+    padding-top: 11px;
+    padding-left: 13px;
+   }
+   .header_name{
+    text-align: center;
+   }
+   .header_txt{
+    width: 100%;
+   }
+   .main_paragraph{
+    flex-direction: column;
+    row-gap: 18px;
+   }
+   .paragraph{
+    width: 100%;
+   }
+   .invisible3{
+    display: none;
+   }
+   .pic_sec{
+    width: 100%;
+   }
+   .happening_2{
+    padding-inline: 13px;
+    padding-top: 165px;
+   }
+   .happening_1{
+    padding-inline: 13px;
+    padding-top: 165px;
+   }
+   .sec1_txt{
+    width: 100%;
+    font-size: 14px;
+   }
+   .sec1_info{
+    width: 100%;
+   }
+}
