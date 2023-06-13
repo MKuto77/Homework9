@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Pridi';
+    src: url('Pridi-Medium.eot');
+    src: url('Pridi-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Pridi-Medium.woff2') format('woff2'),
+        url('Pridi-Medium.woff') format('woff'),
+        url('Pridi-Medium.ttf') format('truetype'),
+        url('Pridi-Medium.svg#Pridi-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Kanit';
+    src: url('Kanit-Medium.eot');
+    src: url('Kanit-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Kanit-Medium.woff2') format('woff2'),
+        url('Kanit-Medium.woff') format('woff'),
+        url('Kanit-Medium.ttf') format('truetype'),
+        url('Kanit-Medium.svg#Kanit-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ABeeZee';
+    src: url('ABeeZee-Regular.eot');
+    src: url('ABeeZee-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ABeeZee-Regular.woff2') format('woff2'),
+        url('ABeeZee-Regular.woff') format('woff'),
+        url('ABeeZee-Regular.ttf') format('truetype'),
+        url('ABeeZee-Regular.svg#ABeeZee-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+

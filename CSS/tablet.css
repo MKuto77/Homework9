@@ -23,6 +23,7 @@
         flex-direction: row;
         width: 100%;
         justify-content: space-between;
+        column-gap: 18px;
     }
 
     .pic_sec {
